@@ -38,6 +38,7 @@ public class LinearSearchExample{
 				return i;
 			}
 		}
+		
 		return -1;
 	}
 }
