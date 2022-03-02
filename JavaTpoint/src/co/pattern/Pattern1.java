@@ -21,3 +21,4 @@ public class Pattern1 {
 	}
 
 }
+
